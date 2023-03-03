@@ -1,3 +1,5 @@
 .venv/*
 first/__pycache__/*
 mysite/__pycache__/*
+.env
+launch.json
